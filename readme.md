@@ -2,8 +2,8 @@
 Develop an image processing model to classify the type of disaster based on the
 image dataset.
 
-<p align="center"><img src="test.jpg"\></p>
-The model correctly indentifies the image as "Human Damage"
+<p align="center"><img src="test.jpg" width="200"\></p>
+<p align="center">The model correctly indentifies the image as "Human Damage"</p>
 
 # Overview
 
