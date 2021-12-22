@@ -4,7 +4,7 @@ image dataset.
 
 # Overview
 
-This is my TensorFlow implementation of the problem statement given to me by members of SCAAI 
+This is my TensorFlow implementation of the problem statement given to me by members of SCAAI (Symbiosis Centre for Applied Artificial Intelligence). The link to drive containing dataset is ```https://drive.google.com/drive/folders/1-yeghThoV7jE50XcYYdMK5ER9CA-1ymG?usp=sharing```
 
 ## Prerequisites
 
